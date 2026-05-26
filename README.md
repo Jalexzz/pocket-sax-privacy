@@ -2,7 +2,7 @@
 
 **Last Updated: May 26, 2026**
 
-This privacy policy governs your use of the mobile application **pocket-sax** (the "Application") created by **Alexander Kwan**.
+This privacy policy governs your use of the mobile application **PocketSax** (the "Application") created by **Alexander Kwan**.
 
 ### 1. Information Collection and Use
 The Application does not actively collect, store, or transmit any personally identifiable information from its users. 
