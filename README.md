@@ -2,7 +2,7 @@
 
 **Last Updated: May 26, 2026**
 
-This privacy policy governs your use of the mobile application **[Your App Name]** (the "Application") created by **[Your Name or Developer Handle]**.
+This privacy policy governs your use of the mobile application **pocket-sax** (the "Application") created by **Alexander Kwan**.
 
 ### 1. Information Collection and Use
 The Application does not actively collect, store, or transmit any personally identifiable information from its users. 
@@ -24,4 +24,4 @@ The Application does not address anyone under the age of 13. We do not knowingly
 We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.
 
 ### 6. Contact Us
-If you have any questions regarding privacy while using the Application, please contact us via email at: **[Your Contact Email Address]**
+If you have any questions regarding privacy while using the Application, please contact us via email at: **jalexzz@ymail.com**
